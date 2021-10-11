@@ -1,0 +1,97 @@
+{
+    "RegisteredABN": "87050345922",
+    "SSN": "ee5a77de-5c13-439c-adfa-154b7e4bdfa2",
+    "PayEvent": {
+        "Id": null,
+        "HasAgencyResponded": false,
+        "Documents": {
+            "Form": "ato.stp.payevnt2018",
+            "MessageType": "Submit.003.00",
+            "Header": {
+                "Payer": {
+                    "BmsId": "MYOB-Advanced.ADVP-87050345922-MAIN-ee5a77de-5c13-439c-adfa-154b7e4bdfa2",
+                    "Abn": "87050345922",
+                    "Wpn": null,
+                    "BranchCode": "443",
+                    "Organisation": {
+                        "Name": "Main",
+                        "ContactPerson": "Clerk1"
+                    },
+                    "ContactDetails": {
+                        "Email": "clerk1@top.com",
+                        "Phone": "0112345678"
+                    },
+                    "PostalAddress": {
+                        "Line1": null,
+                        "Line2": null,
+                        "Locality": null,
+                        "State": null,
+                        "Postcode": null,
+                        "CountryCode": "au"
+                    },
+                    "Payroll": {
+                        "PayRunDate": "2021-10-08T03:27:17",
+                        "PayeeRecordCount": "0",
+                        "MessageTimestamp": "2021-10-08T03:27:17",
+                        "TransactionId": "PSUM001523",
+                        "IsAmendment": false,
+                        "Totals": null
+                    },
+                    "Declaration": {
+                        "Signatory": "tester",
+                        "Date": "2021-10-08T00:00:00",
+                        "Declared": true
+                    }
+                },
+                "Intermediary": null
+            },
+            "Employees": [
+                {
+                    "Payee": {
+                        "Identifiers": {
+                            "Tfn": "******333",
+                            "Abn": null,
+                            "EmployeeId": "APAUS0039"
+                        },
+                        "Name": {
+                            "FamilyName": "Kelly",
+                            "GivenName": "Paki",
+                            "OtherNames": "Blaze"
+                        },
+                        "BirthDate": {
+                            "Day": 20,
+                            "Month": 5,
+                            "Year": 1982
+                        },
+                        "Address": {
+                            "Line1": "add1",
+                            "Line2": null,
+                            "Locality": "mel",
+                            "State": "AAT",
+                            "Postcode": "2111",
+                            "CountryCode": "au"
+                        },
+                        "ContactDetails": {
+                            "Email": "Paki.Kelly@myobap.com",
+                            "Phone": null
+                        },
+                        "EmploymentDates": null,
+                        "YearToDate": null,
+                        "Onboarding": null
+                    }
+                }
+            ]
+        },
+        "Details": {
+            "Messages": [],
+            "ResponseCodes": [],
+            "LodgementReceipt": null,
+            "LodgementReceiptTimestamp": null,
+            "SendCount": null,
+            "Enqueued": null,
+            "AgencyResponded": null
+        },
+        "SendAfterUtc": null
+    },
+    "RequestID": "3e6be824-4410-4db4-8718-0987ac6b9aa6"
+}

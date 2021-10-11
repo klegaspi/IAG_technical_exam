@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VehicleSummary.Api</name>
+    </assembly>
+    <members>
+        <member name="M:VehicleSummary.Api.Controllers.VehicleChecksController.GetMakesAsync(System.String)">
+            <summary>
+            Gets models for a given make
+            </summary>
+            <param name="make"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VehicleSummary.Api.Services.VehicleSummary.VehicleApiModelsService.GetModelsByMakeAsync(System.String)">
+            <summary>
+            Gets models by make
+            </summary>
+            <param name="make"></param>
+            <returns>a list of models</returns>
+        </member>
+        <member name="M:VehicleSummary.Api.Services.VehicleSummary.VehicleApiModelsService.GetYearsOfModelAsync(System.String,System.String)">
+            <summary>
+            Gets years of model
+            </summary>
+            <param name="make"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VehicleSummary.Api.Services.VehicleSummary.VehicleApiModelsService.GetConsolidatedVehicleModelsAsync(System.String)">
+            <summary>
+            Gets models and years by make
+            </summary>
+            <param name="make"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

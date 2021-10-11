@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = VehicleSummary.UnitTests
+build_property.ProjectDir = C:\MyStuff\VehicleSummary.Api\VehicleSummary.UnitTests\

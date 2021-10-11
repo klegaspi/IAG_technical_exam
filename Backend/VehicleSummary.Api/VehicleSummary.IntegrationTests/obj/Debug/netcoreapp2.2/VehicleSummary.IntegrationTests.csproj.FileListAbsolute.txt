@@ -1,0 +1,16 @@
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\bin\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.deps.json
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\bin\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.runtimeconfig.json
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\bin\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.runtimeconfig.dev.json
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\bin\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.dll
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\bin\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.pdb
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\obj\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.csproj.AssemblyReference.cache
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\obj\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\obj\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.AssemblyInfoInputs.cache
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\obj\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.AssemblyInfo.cs
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\obj\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\obj\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.dll
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\obj\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.pdb
+C:\MyStuff\VehicleSummary.Api\VehicleSummary.IntegrationTests\obj\Debug\netcoreapp2.2\VehicleSummary.IntegrationTests.genruntimeconfig.cache
